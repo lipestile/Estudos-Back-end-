@@ -1,0 +1,7 @@
+Aula 3
+
+git configuração
+
+- git config --global user.name "Lipestile"
+- git config --global user.email felipebalbino53gmail.com
+
